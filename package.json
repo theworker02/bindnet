@@ -22,8 +22,9 @@
   "keywords": [
     "bind",
     "net",
-    "net",
     "cli",
-    "toolkit"
+    "toolkit",
+    "v1",
+    "stable"
   ]
 }
